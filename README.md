@@ -5,12 +5,29 @@
 
 This project aims to build a sentiment analysis model that automatically classifies textual data—such as reviews and social media posts—into **positive**, **negative**, or **neutral** categories. The analysis is useful for understanding public opinion, enhancing customer experience, and identifying sentiment trends over time.
 
+---
+## Table Of Content
+- [Deployment Page](#deployment-page)
+- [Goals](#goals)
+- [Dataset](#dataset)
+- [Requirements](#requirements)
+- [Contributors](#contributors)
+
+  
+---
+
+## Deployment Page
+<img width="865" alt="Screenshot 2025-06-01 at 1 36 57 AM" src="https://github.com/user-attachments/assets/8b680d09-b43b-4e22-9dfa-39b4833beea6" />
+
+---
+
 ## Goals
 
 - Automatically classify text into sentiment categories.
 - Understand public opinion on topics, products, or brands.
 - Improve customer experience by analyzing feedback.
 - Track sentiment trends to guide business decisions and marketing strategies.
+---
 
 ## Dataset
 
@@ -26,7 +43,9 @@ The dataset is stored in a CSV file: `sentimentdataset.csv`.
 | `Topic` | Category or product/brand reference |
 | `Label` | Sentiment label (positive, negative, neutral) |
 
-**Dataset URL**: [Click to Access](https://drive.google.com/file/d/1wjHnt-xtuLjZkn1YorvrTvf5dEmjApZc/view?usp=sharing)
+**Dataset URL**: [Click to Access](https://github.com/Tasneem357Mohamed/Sentiment_Analysis_AI-Project/tree/main/AI_Dataset)
+
+---
 
 ## Requirements
 
@@ -57,19 +76,15 @@ Choose from the following algorithms:
 - **Precision**
 - **Recall**
 - **F1-Score**
+  
+---
 
-## Getting Started
-
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Load and preprocess the dataset
-4. Train and evaluate the model
-5. Visualize sentiment trends
-
-## Mentor
-
-**TA. Andrew Magdy**  
-Email: [Andrew.magdy@cis.asu.edu.eg](mailto:Andrew.magdy@cis.asu.edu.eg)
+## Contributors
+|                   Name                    |   Github Link     |
+| :---------------------------------------: | :--------: |
+|      Tasneem Mohamed Ahmed Mohamed     |https://github.com/Tasneem357Mohamed |
+| Esraa Saied Maray |https://github.com/esraasaidmaray |
+|      Toka Karam Abdelmageed Madany      | https://github.com/Toka136 |
+|         Bsmala Tarek Kamal Khalil Elbagoury           | https://github.com/Bsmalatarek |
+|           Amira Mostafa Haroon Abdelwahab          | https://github.com/amira468 |
+|       Omnia Salah Mahmoud Hamed      | https://github.com/Matata2020 |
